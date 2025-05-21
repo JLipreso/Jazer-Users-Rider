@@ -1,0 +1,8 @@
+Installation:
+
+composer require jazer/usersrider:dev-main
+php artisan vendor:publish --tag=usersriderconfig-config
+
+usersrider/task/xxx
+usersrider/rider/xxx
+
